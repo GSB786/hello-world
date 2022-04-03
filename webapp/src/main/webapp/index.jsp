@@ -5,8 +5,8 @@
     <hr>
 
     <label for="mobilenumber"><b>EnterMobilenumber</b></label>
-    <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
-    
+    <input type="text" placeholder="9985291171" name="mobile" id="mobile" required>
+    <br> 
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
