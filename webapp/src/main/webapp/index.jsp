@@ -5,7 +5,7 @@
     <hr>
 
     <label for="email"><b>EnterEmail</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter mobilenumber" name="mobile" id="mobile" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
